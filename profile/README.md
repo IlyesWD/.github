@@ -1,4 +1,4 @@
-<img src="./index.png" />
+<img src="./profile/index.png" />
 <h3 align="center"></h3>
 
 <div align="center">
