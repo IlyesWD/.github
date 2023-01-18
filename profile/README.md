@@ -4,7 +4,7 @@
 <div align="center">
 
 [<img src="https://img.shields.io/badge/Ilyes.elmajouti-010101?&style=for-the-badge&logo=Npm&logoColor=white"/>](https://www.npmjs.com/~ilyes.elmajouti)
-[<img src="https://img.shields.io/badge/Ilyes--El--Majouti-010101?&style=for-the-badge&logo=Github&logoColor=white"/>](https://www.npmjs.com/~ilyes.elmajouti)
+[<img src="https://img.shields.io/badge/Ilyes--El--Majouti-010101?&style=for-the-badge&logo=Github&logoColor=white"/>](https://github.com/Ilyes-El-Majouti)
 </div>
 
 ---
